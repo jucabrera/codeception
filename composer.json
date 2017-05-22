@@ -1,0 +1,10 @@
+{
+	"require" : {
+		"codeception/codeception" : "*"
+	},
+	"autoload" : {
+		"classmap" : [
+			"src"
+		]
+	}
+}
